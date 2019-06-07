@@ -1,6 +1,5 @@
 # News-App
 
-Welcome to the News-App wiki!
 
 This is news app it git data from api as JSON and parse it in RecyclerView using AsyncTaskLoader
 
